@@ -1,0 +1,1 @@
+this script shrinks your ascii art.
