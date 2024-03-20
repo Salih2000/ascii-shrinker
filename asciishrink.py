@@ -14,3 +14,4 @@ ascii_art = """
 """
 shrunken_ascii = shrink_ascii(ascii_art, 0.5)
 print(shrunken_ascii)
+
