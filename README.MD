@@ -1,1 +1,1 @@
-This script shrinks your ascii art.
+This Python script shrinks your ascii art.
